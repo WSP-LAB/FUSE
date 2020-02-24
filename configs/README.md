@@ -3,8 +3,7 @@
 that specifies parameters for a target PHP application. The script must be
 filled out before testing a target Web application.
 
-##### The [configuration file](default-credential.conf) requires the
-    following fields:
+##### The [configuration file](default-credential.conf) requires the following fields:
 
 ###### USER_CREDENTIAL
 1. `ID`: Username for the Web application under testing.
