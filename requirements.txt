@@ -1,0 +1,4 @@
+beautifulsoup4==4.6.0
+pyinotify==0.9.6
+pika==0.12.0
+selenium=3.14.1
