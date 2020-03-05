@@ -3,7 +3,7 @@
 FUSE is a penetration testing system designed to identify Unrestricted
 Executable File Upload (UEFU) vulnerabilities. The details of the testing
 strategy is in our
-[paper](https://www.ndss-symposium.org/wp-content/uploads/2020/02/23126.pdf),
+[paper](https://wsp-lab.github.io/papers/lee-fuse-ndss20.pdf),
 "FUSE: Finding File Upload Bugs via Penetration Testing", which appeared in
 NDSS 2020. To see how to configure and execute FUSE, see the followings.
 
