@@ -22,7 +22,7 @@ FUSE currently works on Ubuntu 18.04 and Python 2.7.15.
 2. Clone and build FUSE
 ```
 $ git clone https://github.com/WSP-LAB/FUSE
-$ pip install -r requirement.txt
+$ pip install -r requirements.txt
 ```
 
 * If you plan to leverage headless browser verification using selenium, please
